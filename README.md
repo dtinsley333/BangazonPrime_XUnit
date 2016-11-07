@@ -28,7 +28,7 @@ MAIN TDD STEPS (Red to Green Tests):
    6. Repeat 
 
 ##Clone the Example app from https://github.com/dtinsley333/BangazonPrime_XUnit.git
-A few of the tests work already, some don't.
+A few of the tests work already, some don't. Fix the existing broken tests and create tests for yet to be implemented functionality. After creating the new tests they will fail. Create code that enables the tests to pass. See the requirments below that you need to used TDD to solve. This work will involve creating the tests then writing the code to satisfy the the test. You will find you need to refactor your code as well as the test several times to get the results you want. 
 
  1. Create a test to make sure movies that are not eligible for streaming are indeed not eligible.
  2. Create tests for allowing sellers to create products that are Bangazon Prime.
