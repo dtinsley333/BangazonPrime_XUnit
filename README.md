@@ -1,14 +1,14 @@
 # Intro to TDD (Test Driven Development) Test the Bangazon Prime Feature using XUnit
-TDD examples for Bangazon Prime
+TDD example for Bangazon Prime
 
-###Bangazon Prime is a customer reward feature of Bangazon Prime Inc.
+###Bangazon Prime is a customer reward feature of a fictional comapan called Bangazon Prime Inc.
 It provides many benefits such as free shipping on many products, daily specials, black friday specials, free streaming of many movies. 
 
 ##What You Will Learn.
 Tests enable you be confident that new code or refactoring does not break existing code. Writing tests prior to writing new code will help you discover how to implement the requirements. In addition your code will be testable from the onset rather than testable code being an after thought. You will learn to create failing tests based on requirements, better known as acceptance criteria. Your tests should document how your code is supposed to behave according to your acceptance criteria.  In TDD, tests are written PRIOR to implementation code. You will learn to run and refactor tests. You will learn that creating tests can not only be beneficial for new code but also of great value for ensuring bugs are fixed and tests are implemented around the bug fix. You will find that code changes may break existing tests, that is not a bad thing, it indicates the test needs to modified based on code changes.  Another benefit of tests is their role in continuous integration where tests are ran prior to being pushed to source control or even deployed to test or production environments. 
 
 Prior to working on existing code you should pull the latest code then run the tests. All tests should pass. Create new tests for new functionality or bug fixes. Make sure all existing tests still pass and all new tests pass. 
-##Myths about Test Driven Development (TDD)
+##Myths About Test Driven Development (TDD)
    * TDD is just about testing
    * TDD slows down development
    * TDD means creating lots of interfaces
