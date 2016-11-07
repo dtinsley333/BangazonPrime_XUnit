@@ -34,9 +34,9 @@ The application can be opened in Visual Studio Code. Which can be downloaded her
 ####Steps: 
 * Open the code in Visual Studio Code
 * CD to the src folder and enter the command dotnet build--C:\CodeProjects\BangazonPrime_XUnit\src\BangazonPrimeService>dotnet build
-* CD to the test folder and enter the dotnet build.--C:\CodeProjects\BangazonPrime_XUnit\test\BangazonPrimeServiceTests dotnet build
-* There will be errors to fix. Once fixed 
-* Enter the command dotnet test--C:\CodeProjects\BangazonPrime_XUnit\test\BangazonPrimeServiceTests dotnet test
+* CD to the test folder and enter the command dotnet build.--C:\CodeProjects\BangazonPrime_XUnit\test\BangazonPrimeServiceTests dotnet build
+* There will be errors to fix. 
+* Once errors are fixed enter the command dotnet test--C:\CodeProjects\BangazonPrime_XUnit\test\BangazonPrimeServiceTests dotnet test
 * Some tests will fail. See instructions below regarding fixing the broken tests as well as creating new tests for new functionality.
 
 
