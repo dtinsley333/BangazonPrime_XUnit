@@ -74,7 +74,13 @@ namespace BangazonPrimeService.Tests
                 Assert.Equal(true, actual); 
         }
 
-            //Create a test to make sure movies that are not eligible for streaming are indeed not eligible. 
+            //Use TDD test the following requirements.
+            //Create a test to make sure movies that are not eligible for streaming are indeed not eligible.
+            //Create tests for allowing sellers to create products that are Bangazon Prime.
+            //Add test to test that a product of the type holiday movie is eligible for streaming by Bangazon Prime customers from October to January. User must also have a Bangazon Prime Membership.
+            //Create a test that tests that users with Bangazon Prime are offered Bangazon Prime at a discount on Black Friday.
+            //Create a test that returns a list containing products featured in "Deal of the Day". All products must be Bangazon Prime eligible.
+                        
 
     }
 }
