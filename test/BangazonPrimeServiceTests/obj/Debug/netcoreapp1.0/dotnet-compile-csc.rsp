@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"C:\CodeProjects\BangazonPrime\test\BangazonPrimeServiceTests\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\CodeProjects\BangazonPrime\test\BangazonPrimeServiceTests\bin\Debug\netcoreapp1.0\BangazonPrimeServiceTests.dll"
+"C:\CodeProjects\BangazonPrime_XUnit\test\BangazonPrimeServiceTests\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\CodeProjects\BangazonPrime_XUnit\test\BangazonPrimeServiceTests\bin\Debug\netcoreapp1.0\BangazonPrimeServiceTests.dll"
 -r:"C:\Users\TekCon\.nuget\packages\dotnet-test-xunit\1.0.0-rc2-build10015\lib\netcoreapp1.0\dotnet-test-xunit.dll"
 -r:"C:\Users\TekCon\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\TekCon\.nuget\packages\Microsoft.DiaSymReader\1.0.6\lib\portable-net45+win8\Microsoft.DiaSymReader.dll"
@@ -105,5 +105,5 @@
 -r:"C:\Users\TekCon\.nuget\packages\xunit.extensibility.execution\2.1.0\lib\dotnet\xunit.execution.dotnet.dll"
 -r:"C:\Users\TekCon\.nuget\packages\xunit.runner.reporters\2.1.0\lib\dotnet\xunit.runner.reporters.dotnet.dll"
 -r:"C:\Users\TekCon\.nuget\packages\xunit.runner.utility\2.1.0\lib\dotnet\xunit.runner.utility.dotnet.dll"
--r:"C:\CodeProjects\BangazonPrime\src\BangazonPrimeService\bin\Debug\netcoreapp1.0\BangazonPrimeService.dll"
-"C:\CodeProjects\BangazonPrime\test\BangazonPrimeServiceTests\BangazonPrimeService.Tests.cs"
+-r:"C:\CodeProjects\BangazonPrime_XUnit\src\BangazonPrimeService\bin\Debug\netcoreapp1.0\BangazonPrimeService.dll"
+"C:\CodeProjects\BangazonPrime_XUnit\test\BangazonPrimeServiceTests\BangazonPrimeService.Tests.cs"

@@ -33,9 +33,10 @@ http://bitbybitblog.com/introduction-to-test-driven-development/
 The application can be opened in Visual Studio Code. Which can be downloaded here: http://code.visualstudio.com/B?utm_expid=101350005-31.YsqwCVJESWmc4UCMDLsNRw.1&utm_referrer=https%3A%2F%2Fsearch.yahoo.com%2F This code will run on OSX as well as windows. 
 ####Steps: 
 * Open the code in Visual Studio Code
-* CD to the src folder and enter the command dotnet build 
-* CD to the test folder and denter the dotnet build.
-* Enter the command dotnet test
+* CD to the src folder and enter the command dotnet build--C:\CodeProjects\BangazonPrime_XUnit\src\BangazonPrimeService>dotnet build
+* CD to the test folder and enter the dotnet build.--C:\CodeProjects\BangazonPrime_XUnit\test\BangazonPrimeServiceTests dotnet build
+* There will be errors to fix. Once fixed 
+* Enter the command dotnet test--C:\CodeProjects\BangazonPrime_XUnit\test\BangazonPrimeServiceTests dotnet test
 * Some tests will fail. See instructions below regarding fixing the broken tests as well as creating new tests for new functionality.
 
 
