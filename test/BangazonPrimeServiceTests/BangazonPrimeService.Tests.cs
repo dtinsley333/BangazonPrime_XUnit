@@ -19,7 +19,7 @@ namespace BangazonPrimeService.Tests
         [Fact]
          public void UserHasBangazonPrime()
         {
-            User bangazonUser=new User(DateTime.Now.AddMonths(-1),null, 123);//no end date means they have amazon prime
+            User bangazonUser=new User(DateTime.Now.AddMonths(-1),null, 123);//no end date means they have Bangazon prime
             bool actual=bangazonUser.IsPrimeUser;
             Assert.Equal(true, actual); 
         }
@@ -27,7 +27,7 @@ namespace BangazonPrimeService.Tests
         [Fact]
         public void UserIsNotBangazonPrimeUser()
         {
-            User bangazonUser=new User(DateTime.Now.AddMonths(-11),DateTime.Now.AddMonths(-1), 344); //End Date in the past means no amazon prime
+            User bangazonUser=new User(DateTime.Now.AddMonths(-11),DateTime.Now.AddMonths(-1), 344); //End Date in the past means no Bangazon prime
             bool actual=bangazonUser.IsPrimeUser;
             Assert.Equal(false, actual);
         }
