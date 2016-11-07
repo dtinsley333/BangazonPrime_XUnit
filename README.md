@@ -30,11 +30,11 @@ MAIN TDD STEPS (Red to Green Tests):
 ##Clone the Example app from https://github.com/dtinsley333/BangazonPrime_XUnit.git
 A few of the tests work already, some don't.
 
-1. Fix the current tests that don't work by creating code that turns the red broken test to green passing tests. 
-2. Create tests for allowing sellers to create products that are Bangazon Prime.
-3. Add test to test that a product of the type holiday movie is eligible for Bangazon prime from October to January. User must also have a Bangazon Prime Membership.
-4. Create a test that tests that users without Bangazon Prime are offered Bangazon Prime at a discount on Black Friday.   
-5. Create a test that returns a list containing products featured in "Deal of the Day". All products must be Bangazon Prime eligible. 
+ 1. Create a test to make sure movies that are not eligible for streaming are indeed not eligible.
+ 2. Create tests for allowing sellers to create products that are Bangazon Prime.
+ 3. Add test to test that a product of the type holiday movie is eligible for streaming by Bangazon Prime customers from October to   January. User must also have a Bangazon Prime Membership.
+ 4. Create a test that tests that users with Bangazon Prime are offered Bangazon Prime at a discount on Black Friday.
+ 5. Create a test that returns a list containing products featured in "Deal of the Day". All products must be Bangazon Prime eligible. list containing products featured in "Deal of the Day". All products must be Bangazon Prime eligible. 
    
 
 
