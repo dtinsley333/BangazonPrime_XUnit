@@ -1,4 +1,4 @@
-# Intro to TDD (Test Driven Development) BangazonPrime XUnit
+# Intro to TDD (Test Driven Development) Test the Bangazon Prime Feature using XUnit
 TDD examples for Bangazon Prime
 
 ##What you will learn.
@@ -12,8 +12,6 @@ TDD means creating lots of interfaces
 TDD guarantees you to catch all the potential errors in a system
 TDD guarantees you to design your system well
 
-
-
 https://en.wikipedia.org/wiki/Test-driven_development
 http://bitbybitblog.com/introduction-to-test-driven-development/
 
@@ -25,7 +23,6 @@ MAIN TDD STEPS (Red to Green Tests):
    4. Run tests, refactor and fix until the test passes
    5. Refactor, clean up refine, make sure you are meeting acceptance criteria
    6. Repeat 
-
 
 ##Clone the Example app from https://github.com/dtinsley333/BangazonPrime_XUnit.git
 A few of the tests work already, some don't.
