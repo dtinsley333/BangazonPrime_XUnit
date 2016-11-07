@@ -1,7 +1,7 @@
 # Intro to TDD (Test Driven Development) Test the Bangazon Prime Feature using XUnit
 TDD example for Bangazon Prime
 
-###Bangazon Prime is a customer reward feature of a fictional company called Bangazon Prime Inc.
+###Bangazon Prime is a customer reward feature of a fictional company called Bangazon Inc.
 It provides many benefits such as free shipping on many products, daily specials, black friday specials, free streaming of many movies. 
 
 ##What You Will Learn.
