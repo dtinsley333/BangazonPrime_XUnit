@@ -1,5 +1,15 @@
 # BangazonPrime_XUnit
 TDD examples for Bangazon Prime
+https://en.wikipedia.org/wiki/Test-driven_development
+
+###This code is an simple TDD example. 
+MAIN TDD STEPS (Red to Green Tests):
+   1. Write the test prior to writing code.
+   2. Run all tests and see if the new test fails
+   3. Write the code to satisfy the test
+   4. Run tests, refactor and fix until the test passes
+   5. Refactor, clean up refine, make sure you are meeting acceptance criteria
+   6. Repeat 
 
 A few of the tests work already, some don't.
 
